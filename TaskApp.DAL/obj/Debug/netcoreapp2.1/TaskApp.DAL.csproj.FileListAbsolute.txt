@@ -12,3 +12,17 @@ c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\bin\Debug\netcoreapp2.
 c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.csproj.CopyComplete
 c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.dll
 c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.pdb
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.DAL\bin\Debug\netcoreapp2.1\TaskApp.DAL.deps.json
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.DAL\bin\Debug\netcoreapp2.1\TaskApp.DAL.runtimeconfig.json
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.DAL\bin\Debug\netcoreapp2.1\TaskApp.DAL.runtimeconfig.dev.json
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.DAL\bin\Debug\netcoreapp2.1\TaskApp.DAL.dll
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.DAL\bin\Debug\netcoreapp2.1\TaskApp.DAL.pdb
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.DAL\bin\Debug\netcoreapp2.1\TaskApp.Models.dll
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.DAL\bin\Debug\netcoreapp2.1\TaskApp.Models.pdb
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.csprojAssemblyReference.cache
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.AssemblyInfoInputs.cache
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.AssemblyInfo.cs
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.csproj.CopyComplete
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.dll
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.pdb

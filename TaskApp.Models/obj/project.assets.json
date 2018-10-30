@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.Models\\TaskApp.Models.csproj",
+      "projectUniqueName": "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.Models\\TaskApp.Models.csproj",
       "projectName": "TaskApp.Models",
-      "projectPath": "c:\\users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.Models\\TaskApp.Models.csproj",
+      "projectPath": "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.Models\\TaskApp.Models.csproj",
       "packagesPath": "C:\\Users\\ivan.pachemanov\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.Models\\obj\\",
+      "outputPath": "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

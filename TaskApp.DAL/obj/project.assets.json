@@ -3571,11 +3571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.DAL\\TaskApp.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.DAL\\TaskApp.DAL.csproj",
       "projectName": "TaskApp.DAL",
-      "projectPath": "C:\\Users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.DAL\\TaskApp.DAL.csproj",
+      "projectPath": "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.DAL\\TaskApp.DAL.csproj",
       "packagesPath": "C:\\Users\\ivan.pachemanov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.DAL\\obj\\",
+      "outputPath": "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3595,8 +3595,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.Models\\TaskApp.Models.csproj": {
-              "projectPath": "C:\\Users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.Models\\TaskApp.Models.csproj"
+            "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.Models\\TaskApp.Models.csproj": {
+              "projectPath": "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.Models\\TaskApp.Models.csproj"
             }
           }
         }

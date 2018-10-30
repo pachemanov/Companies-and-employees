@@ -6,9 +6,6 @@ import { RouterModule } from '@angular/router';
 
 import { AppComponent } from './app.component';
 import { NavMenuComponent } from './nav-menu/nav-menu.component';
-import { HomeComponent } from './home/home.component';
-import { CounterComponent } from './counter/counter.component';
-import { FetchDataComponent } from './fetch-data/fetch-data.component';
 import { CompanyCreateComponent } from './company/company-create/company-create.component';
 import { CompanyListComponent } from './company/company-list/company-list.component';
 import { EmployeeListComponent } from './employee/employee-list/employee-list.component';
@@ -26,9 +23,6 @@ import { LoaderComponent } from './loader/loader.component';
   declarations: [
     AppComponent,
     NavMenuComponent,
-    HomeComponent,
-    CounterComponent,
-    FetchDataComponent,
     CompanyCreateComponent,
     CompanyListComponent,
     EmployeeListComponent,
@@ -46,8 +40,6 @@ import { LoaderComponent } from './loader/loader.component';
     FormsModule,
     RouterModule.forRoot([
       { path: '', component: CompanyListComponent, pathMatch: 'full' },
-      { path: 'counter', component: CounterComponent },
-      { path: 'fetch-data', component: FetchDataComponent },
       { path: 'create', component: CompanyCreateComponent },
       { path: 'company-list', component: CompanyListComponent },
       { path: 'company-option/:id', component: CompanyOptionsComponent },

@@ -3740,11 +3740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.Core\\TaskApp.Core.csproj",
+      "projectUniqueName": "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.Core\\TaskApp.Core.csproj",
       "projectName": "TaskApp.Core",
-      "projectPath": "C:\\Users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.Core\\TaskApp.Core.csproj",
+      "projectPath": "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.Core\\TaskApp.Core.csproj",
       "packagesPath": "C:\\Users\\ivan.pachemanov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.Core\\obj\\",
+      "outputPath": "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3764,14 +3764,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.Core.DTOs\\TaskApp.Core.DTOs.csproj": {
-              "projectPath": "C:\\Users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.Core.DTOs\\TaskApp.Core.DTOs.csproj"
+            "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.Core.DTOs\\TaskApp.Core.DTOs.csproj": {
+              "projectPath": "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.Core.DTOs\\TaskApp.Core.DTOs.csproj"
             },
-            "C:\\Users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.Core.Mapper\\TaskApp.Core.Mapper.csproj": {
-              "projectPath": "C:\\Users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.Core.Mapper\\TaskApp.Core.Mapper.csproj"
+            "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.Core.Mapper\\TaskApp.Core.Mapper.csproj": {
+              "projectPath": "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.Core.Mapper\\TaskApp.Core.Mapper.csproj"
             },
-            "C:\\Users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.DAL\\TaskApp.DAL.csproj": {
-              "projectPath": "C:\\Users\\ivan.pachemanov\\source\\repos\\TaskApp\\TaskApp.DAL\\TaskApp.DAL.csproj"
+            "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.DAL\\TaskApp.DAL.csproj": {
+              "projectPath": "C:\\Users\\ivan.pachemanov\\Documents\\GitHub\\CompaniesAndEmployees\\TaskApp.DAL\\TaskApp.DAL.csproj"
             }
           }
         }

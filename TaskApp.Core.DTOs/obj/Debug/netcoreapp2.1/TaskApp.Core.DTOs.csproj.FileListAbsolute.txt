@@ -10,3 +10,15 @@ c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\obj\Debug\netcor
 c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.csproj.CopyComplete
 c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.dll
 c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.pdb
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.Core.DTOs\bin\Debug\netcoreapp2.1\TaskApp.Core.DTOs.deps.json
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.Core.DTOs\bin\Debug\netcoreapp2.1\TaskApp.Core.DTOs.dll
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.Core.DTOs\bin\Debug\netcoreapp2.1\TaskApp.Core.DTOs.pdb
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.Core.DTOs\bin\Debug\netcoreapp2.1\TaskApp.Models.dll
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.Core.DTOs\bin\Debug\netcoreapp2.1\TaskApp.Models.pdb
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.csprojAssemblyReference.cache
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.AssemblyInfoInputs.cache
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.AssemblyInfo.cs
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.csproj.CopyComplete
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.dll
+C:\Users\ivan.pachemanov\Documents\GitHub\CompaniesAndEmployees\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.pdb
