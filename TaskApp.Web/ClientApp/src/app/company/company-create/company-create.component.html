@@ -1,0 +1,11 @@
+<div class="col-md-6">
+  <form #heroForm="ngForm">
+    <div class="form-group">
+      <label for="companyName">Company Name</label>
+      <input [(ngModel)]="model.name" type="text" name="companyName" class="form-control" id="companyName" aria-describedby="nameHelp" placeholder="Enter company name" required>
+      <small id="nameHelp" class="form-text text-muted">Type a unique business name that sells.</small>
+    </div>
+    <H3 *ngIf="!isValidForm"><b>Company name is required!</b></H3>
+    <button (click)="newCompany()" type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>

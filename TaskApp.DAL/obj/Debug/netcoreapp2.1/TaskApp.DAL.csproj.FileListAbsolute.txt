@@ -1,0 +1,14 @@
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\bin\Debug\netcoreapp2.1\TaskApp.Models.dll
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.csproj.CoreCompileInputs.cache
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.AssemblyInfoInputs.cache
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.AssemblyInfo.cs
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.csprojAssemblyReference.cache
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\bin\Debug\netcoreapp2.1\TaskApp.DAL.deps.json
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\bin\Debug\netcoreapp2.1\TaskApp.DAL.runtimeconfig.json
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\bin\Debug\netcoreapp2.1\TaskApp.DAL.runtimeconfig.dev.json
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\bin\Debug\netcoreapp2.1\TaskApp.DAL.dll
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\bin\Debug\netcoreapp2.1\TaskApp.DAL.pdb
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\bin\Debug\netcoreapp2.1\TaskApp.Models.pdb
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.csproj.CopyComplete
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.dll
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.DAL\obj\Debug\netcoreapp2.1\TaskApp.DAL.pdb

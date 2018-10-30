@@ -1,0 +1,24 @@
+<app-loader *ngIf="!company"></app-loader>
+<div class="col-md-8" *ngIf="company">
+    <h1>Company: {{ company.name }}</h1>
+</div>
+<!-- <div class="col-md-4" *ngIf="company">
+        <h3><em>back to list</em></h3>
+    </div> -->
+<div class="container col-md-10" *ngIf="company">
+  <div class="row top-buffer">
+    <button type="button" class="btn btn-success btn-lg btn-block" (click)="viewEmployees()">View Employees</button>
+  </div>
+
+  <div class="row top-buffer">
+      <button type="button" class="btn btn-success btn-lg btn-block" (click)="addEmployee()">Add Employee</button>
+  </div>
+
+  <div class="row top-buffer">
+      <button type="button" class="btn btn-warning btn-lg btn-block" [routerLink]="['/company-edit', currentId]">Edit company information</button>
+  </div>
+
+  <div class="row top-buffer">
+      <button type="button" class="btn btn-danger btn-lg btn-block" (click)="deleteCompany()">Delete company</button>
+  </div>
+</div>

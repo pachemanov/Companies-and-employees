@@ -1,0 +1,7 @@
+<app-loader *ngIf="!companies"></app-loader>
+
+<div class="container col-md-12">
+  <div class="row border top-buffer shadow" *ngFor="let comp of companies">
+    <app-company [company]="comp"></app-company>
+  </div>
+</div>

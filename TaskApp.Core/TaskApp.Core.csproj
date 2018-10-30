@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskApp.Core.DTOs\TaskApp.Core.DTOs.csproj" />
+    <ProjectReference Include="..\TaskApp.Core.Mapper\TaskApp.Core.Mapper.csproj" />
+    <ProjectReference Include="..\TaskApp.DAL\TaskApp.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+<div class="text-center pointer" 
+    style="cursor:pointer;"
+    (click)="navigatoToEdit()">
+    <div class="row">
+        <div class="col-md-8">
+            <h3><em>{{ employee.firstName }} {{ employee.lastname }}</em></h3>
+        </div>
+        <div class="col-md-4">
+            <h3><em>EL:{{ level[employee.experienceLevel] }}</em></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-5">
+            <p>Starting date: {{ employee.startingDate | date:'shortDate' }}</p>
+        </div>
+        <div class="col-md-3">
+            <p><em><b>Salary: {{employee.salary | currency: 'EUR' }}</b></em></p>
+        </div>
+        <div class="col-md-4">
+            <p><em>Vavcation days: {{employee.vacationDays }}</em></p>
+        </div>
+    </div>   
+</div>

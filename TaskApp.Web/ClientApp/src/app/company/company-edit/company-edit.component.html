@@ -1,0 +1,9 @@
+<app-loader *ngIf="!model"></app-loader>
+<form #heroForm="ngForm">
+  <div class="form-group">
+    <label for="companyName">Company Name</label>
+    <input [(ngModel)]="model.name" type="text" name="companyName" class="form-control" id="companyName" aria-describedby="nameHelp" placeholder="Enter company name" required>
+    <small id="nameHelp" class="form-text text-muted">Type a unique business name that sells.</small>
+  </div>
+  <button (click)="editCompany()" type="submit" class="btn btn-primary">Edit</button>
+</form>

@@ -1,0 +1,67 @@
+<h1>New employee in company {{company?.name}}</h1>
+<div class="col-md-6">
+  <form #heroForm="ngForm">
+    <div class="form-group">
+        <label for="firstName">First name</label>
+        <input type="text" [(ngModel)]="model.firstName" 
+                name="firstName"
+                class="form-control"/>
+      </div>
+    <div class="form-group">
+        <label for="lastName">Last name</label>
+        <input type="text" [(ngModel)]="model.lastname" 
+                name="lastName"
+                class="form-control"/>
+      </div>
+    <div class="form-group">
+      <label for="level">Experience level</label>
+      <select [(ngModel)]="model.experienceLevel" 
+              name="experienceLevell"
+              class="form-control">
+                <option *ngFor="let level of expLevel">
+                  {{level}}
+                </option>
+      </select>
+    </div>
+    <div class="form-group">
+        <label for="startingDate">Starting date</label>
+        <input [(ngModel)]="model.startingDate" 
+              type="date"
+              name="startingDate" 
+              class="form-control" 
+              id="startingDate"  
+              placeholder="Starting date" 
+              required>
+        <small id="startingDateHelp" 
+              class="form-text text-muted">Type a starting date of the employee.</small>
+    </div>
+    <div class="form-group">
+        <label for="salary">Salary</label>
+        <input type="number" 
+            placeholder="0.00" 
+            min="0" 
+            value="0" 
+            step="0.01"
+            [(ngModel)]="model.salary" 
+            name="salary" 
+            class="form-control" 
+            id="salary"  
+            placeholder="Salary" 
+            required>
+      <small id="salaryHelp" 
+            class="form-text text-muted">Type a salary.</small>
+    </div>
+    <div class="form-group">
+        <label for="vacationDays">Vacation days</label>
+      <input [(ngModel)]="model.vacationDays" 
+            type="text"
+            name="vacationDays" 
+            class="form-control" 
+            id="vacationDays"  
+            placeholder="Vacation Days" 
+            required>
+    </div>
+    <H3 *ngIf="!isValidForm"><b>All fields are required!</b></H3>
+    <button (click)="newEmployee()" type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>

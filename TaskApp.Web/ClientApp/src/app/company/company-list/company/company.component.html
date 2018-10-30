@@ -1,0 +1,6 @@
+<div class="text-center pointer" 
+    style="cursor:pointer;"
+    [routerLink]="['/company-option', company.companyId]">
+    <h3> {{ company.name }}</h3>
+    <p><em>Creation date: {{company.creationDate | date:'shortDate' }}</em></p>
+</div>

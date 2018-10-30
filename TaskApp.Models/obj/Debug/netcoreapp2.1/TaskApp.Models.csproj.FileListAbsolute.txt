@@ -1,0 +1,9 @@
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Models\bin\Debug\netcoreapp2.1\TaskApp.Models.deps.json
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Models\bin\Debug\netcoreapp2.1\TaskApp.Models.dll
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Models\bin\Debug\netcoreapp2.1\TaskApp.Models.pdb
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Models\obj\Debug\netcoreapp2.1\TaskApp.Models.csproj.CoreCompileInputs.cache
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Models\obj\Debug\netcoreapp2.1\TaskApp.Models.AssemblyInfoInputs.cache
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Models\obj\Debug\netcoreapp2.1\TaskApp.Models.AssemblyInfo.cs
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Models\obj\Debug\netcoreapp2.1\TaskApp.Models.dll
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Models\obj\Debug\netcoreapp2.1\TaskApp.Models.pdb
+C:\Users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Models\obj\Debug\netcoreapp2.1\TaskApp.Models.csprojAssemblyReference.cache

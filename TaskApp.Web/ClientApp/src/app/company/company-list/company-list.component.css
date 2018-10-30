@@ -1,0 +1,7 @@
+.border {border: 0.5px solid grey;}
+
+.top-buffer { margin-top:20px; }
+
+.shadow{
+    box-shadow: 10px 10px 5px grey;
+}

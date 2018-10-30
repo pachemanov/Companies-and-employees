@@ -1,0 +1,17 @@
+<app-loader *ngIf="!employees"></app-loader>
+<div class="row">
+  <div class="col-md-8" *ngIf="employees">
+      <H1>Company: {{ company?.name }}</H1>
+  </div>
+  <div class="col-md-offset-2 col-md-2" *ngIf="employees">
+    <button class="btn btn-warning top-buffer"
+      (click)="backToOptions()">
+      back to options
+    </button>
+  </div>
+</div>
+<div class="container col-md-12">
+  <div class="row border top-buffer shadow" *ngFor="let emp of employees">
+    <app-employee [employee]="emp"></app-employee>
+  </div>
+</div>

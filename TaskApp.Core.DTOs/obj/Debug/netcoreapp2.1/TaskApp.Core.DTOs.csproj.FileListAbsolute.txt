@@ -1,0 +1,12 @@
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\bin\Debug\netcoreapp2.1\TaskApp.Core.DTOs.deps.json
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\bin\Debug\netcoreapp2.1\TaskApp.Core.DTOs.dll
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\bin\Debug\netcoreapp2.1\TaskApp.Core.DTOs.pdb
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\bin\Debug\netcoreapp2.1\TaskApp.Models.dll
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\bin\Debug\netcoreapp2.1\TaskApp.Models.pdb
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.csprojAssemblyReference.cache
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.csproj.CoreCompileInputs.cache
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.AssemblyInfoInputs.cache
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.AssemblyInfo.cs
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.csproj.CopyComplete
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.dll
+c:\users\ivan.pachemanov\source\repos\TaskApp\TaskApp.Core.DTOs\obj\Debug\netcoreapp2.1\TaskApp.Core.DTOs.pdb
